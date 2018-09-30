@@ -20,16 +20,16 @@ Accepts an array of stringified polygons
 **Order** ```{number}```  
 You can pick one of the following 8 formatting orders
 
-| startposition-endposition | direction  | argument | image example                                                                                                |
-|---------------------------|------------|----------|--------------------------------------------------------------------------------------------------------------|
-| lefttop-rightbottom       | horizontal | 1        | ![lt-rb](https://raw.githubusercontent.com/evanzummeren/reorder-svg/master/assets/lt-rb-h.svg?sanitize=true) |
-| righttop-leftbottom       | horizontal | 2        |       |
-| rightbottom-lefttop       | horizontal | 3        |       |
-| leftbottom-righttop       | horizontal | 4        |       |
-| lefttop-rightbottom       | vertical   | 5        |       |
-| righttop-leftbottom       | vertical   | 6        |       |
-| rightbottom-lefttop       | vertical   | 7        |       |
-| leftbottom-righttop       | vertical   | 8        |       |
+| startposition-endposition | direction  | argument | image example                                                                                                  |
+|---------------------------|------------|----------|----------------------------------------------------------------------------------------------------------------|
+| lefttop-rightbottom       | horizontal | 1        | ![lt-rb-h](https://raw.githubusercontent.com/evanzummeren/reorder-svg/master/assets/lt-rb-h.svg?sanitize=true) |
+| righttop-leftbottom       | horizontal | 2        | ![rt-lb-h](https://raw.githubusercontent.com/evanzummeren/reorder-svg/master/assets/rt-lb-h.svg?sanitize=true) |
+| rightbottom-lefttop       | horizontal | 3        | ![rb-lt-h](https://raw.githubusercontent.com/evanzummeren/reorder-svg/master/assets/rb-lt-h.svg?sanitize=true) |
+| leftbottom-righttop       | horizontal | 4        | ![lb-rt-h](https://raw.githubusercontent.com/evanzummeren/reorder-svg/master/assets/lb-rt-h.svg?sanitize=true) |
+| lefttop-rightbottom       | vertical   | 5        | ![lt-rb-v](https://raw.githubusercontent.com/evanzummeren/reorder-svg/master/assets/lt-rb-v.svg?sanitize=true) |
+| righttop-leftbottom       | vertical   | 6        | ![rt-lb-v](https://raw.githubusercontent.com/evanzummeren/reorder-svg/master/assets/rt-lb-v.svg?sanitize=true) |
+| rightbottom-lefttop       | vertical   | 7        | ![rb-lt-v](https://raw.githubusercontent.com/evanzummeren/reorder-svg/master/assets/rb-lt-v.svg?sanitize=true) |
+| leftbottom-righttop       | vertical   | 8        | ![lb-rt-v](https://raw.githubusercontent.com/evanzummeren/reorder-svg/master/assets/lb-rt-v.svg?sanitize=true) |
 
 ## Examples
 Coming up
