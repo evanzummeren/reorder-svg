@@ -9,6 +9,11 @@
     "polygons"
   ],
   "author": "Erik van Zummeren <erikvanzummeren@gmail.com>",
+  "homepage": "https://github.com/evanzummeren/reorder-svg",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/evanzummeren/reorder-svg.git"
+  },
   "license": "MIT",
   "dependencies": {
     "lodash.sortby": "^4.7.0",
