@@ -3,15 +3,12 @@
   "version": "1.0.0",
   "description": "Reorders SVG polygons",
   "main": "reorderSvg.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [
     "svg",
     "reordering",
     "polygons"
   ],
-  "author": "Erik van Zummeren",
+  "author": "Erik van Zummeren <erikvanzummeren@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "lodash.sortby": "^4.7.0",
